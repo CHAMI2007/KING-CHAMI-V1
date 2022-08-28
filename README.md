@@ -37,7 +37,8 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://)
 
 
 
