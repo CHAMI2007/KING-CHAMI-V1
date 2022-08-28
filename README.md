@@ -29,9 +29,9 @@
 </div>
 
 <p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
-1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@chaminduindula2/KING-CHAMI-V1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V2/fork)
+2. Click [FORK](https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 2. After That Upload Session.json File
 
