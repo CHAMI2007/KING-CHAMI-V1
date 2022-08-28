@@ -36,14 +36,13 @@
 2. After That Upload Session.json File
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-
-
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://)
+## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 
 
 ## Owner:
-* [`CHAMI-MD`](https://github.com/CHAMI2007/KING-CHAMI-V1)
+* [`CHAMI-MD`]([[https://github.com/CHAMI2007/KING-CHAMI-V1]]
 
 ## Thanks To
 
