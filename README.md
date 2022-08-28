@@ -1,6 +1,6 @@
 # CHAMI-MD
 #### TOTAL REPO VIEWS📍
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingchami&label=Profile%20views&color=0e75b6&style=flat" alt="kingchami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chami2007&label=Profile%20views&color=0e75b6&style=flat" alt="chami2007" /> </p>
 
 ## Thanks To : [`KING_CHAMI`](https://github.com/KINGCHAMI)
 
