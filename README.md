@@ -28,14 +28,14 @@
 
 </div>
 
-<p align="center">By CHAMI-MD>| © | Reserved  </br> 
+<p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
  
 
 
 
 
 ## Owner:
-* [`CHAMI-MD`](https://github.com/KINGCHAMI)
+* [`CHAMI-MD`](https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 ## Thanks To
 
