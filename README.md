@@ -31,7 +31,7 @@
 <p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
  
 
-Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+Then Click [DEPLOY](https://heroku.com/deploy//https://github.com/CHAMI2007/KING-CHAMI-V1) Button To Enjoy My Bot.
 
 
 ## Owner:
