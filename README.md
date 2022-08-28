@@ -29,9 +29,16 @@
 </div>
 
 <p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
- 
+1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-Then Click [DEPLOY](https://heroku.com/deploy//https://github.com/CHAMI2007/KING-CHAMI-V1) Button To Enjoy My Bot.
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V2/fork)
+
+2. After That Upload Session.json File
+
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
 
 
 ## Owner:
