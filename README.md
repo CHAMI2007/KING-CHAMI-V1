@@ -43,7 +43,7 @@
 
 
 ## Owner:
-* [`CHAMI-MD`]([[https://github.com/CHAMI2007/KING-CHAMI-V1]]
+* [`CHAMI-MD`]([[https://github.com/CHAMI2007/KING-CHAMI-V1])
 
 ## Thanks To
 
