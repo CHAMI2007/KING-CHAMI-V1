@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
-1. Click [SCAN](https://replit.com/@chaminduindula2/KING-CHAMI-V1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN]([https://replit.com/@chaminduindula2/KING-CHAMI-V1-2?v=1]) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/CHAMI2007/KING-CHAMI-V1)
 
