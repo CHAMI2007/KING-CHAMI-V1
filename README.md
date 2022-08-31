@@ -37,7 +37,6 @@
 2. Click [FORK](https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 
-## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 
