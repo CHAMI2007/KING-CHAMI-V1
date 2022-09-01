@@ -30,9 +30,9 @@
 
 <p align="center">By KING-CHAMI-MD>| © | Reserved  </br> 
 
-**ඉස්සෙල්ලාම ඔයාලා FORK කරගෙන ඉන්න
+***ඉස්සෙල්ලාම ඔයාලා FORK කරගෙන ඉන්න***
 
-**ඊට පස්සේ QR CODE එක ගන්න.ඒකට පල්ලෙ තියෙන බටන් එක ඔබන්න
+***ඊට පස්සේ QR CODE එක ගන්න.ඒකට පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@chaminduindula2/KING-CHAMI-V1-2?v=1)
 
