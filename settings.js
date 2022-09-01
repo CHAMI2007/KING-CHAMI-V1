@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94'] // owner number
+global.vcardowner = ['+94714100998'] // owner number
 global.ownername = "S.H.CHAMINDU❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: CHAMI2007" // github or insta name
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94']
-global.ownertag = '+94' //your WHATSAPP number
+global.owner = ['+94714100998']
+global.ownertag = '+94714100998' //your WHATSAPP number
 global.botname = 'KING-CHAMI-V1' //ur bot name
 global.packname = "KING-CHAMI-V1 Bot Sticker" // sticker packname
 global.author = "KING-CHAMI-V1" // sticker author
