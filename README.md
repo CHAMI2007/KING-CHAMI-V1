@@ -34,7 +34,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@chaminduindula2/KING-CHAMI-V1-2?v=1)
 
 
-2. Click [FORK](https://github.com/CHAMI2007/KING-CHAMI-V1)
+2. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/CHAMI2007/KING-CHAMI-V1)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMI2007/KING-CHAMI-V1)
