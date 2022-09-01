@@ -34,9 +34,6 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@chaminduindula2/KING-CHAMI-V1-2?v=1)
 
 
-[![FORK](![[image](https://cdn0.iconfinder.com/data/icons/picsonry-2-1/18/git_fork_code_collaboration_control_programming_version-512.png)](https://user-images.githubusercontent.com/112083744/187894899-56163b63-4a9d-4634-856d-5b4edec540b5.png)
-)](https://github.com/CHAMI2007/KING-CHAMI-V1)
-
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMI2007/KING-CHAMI-V1)
 
